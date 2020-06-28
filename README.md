@@ -14,5 +14,5 @@ This repository is licensed under MIT
 ## The Developer
 This application was developed by John Romano GitHub: https://github.com/johnromano23
 ## Credits
-This website uses a React SPA Template "Ceevee Template" by Styleshout.
-HTML design template is credited to Tom Baker.
+* This website uses a React SPA Template: "Ceevee Template" by Styleshout.
+* HTML design template is credited to Tom Baker.
