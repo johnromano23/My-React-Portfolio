@@ -2,6 +2,7 @@
 This is my personal portfolio using React where I will showcase my skills and work that I have completed as a student at Rutgers.
 ## Link to Website 
 https://johnromano23.github.io/My-React-Portfolio/
+![React-Portfolio](https://user-images.githubusercontent.com/63254285/85949180-4b819980-b923-11ea-9067-3349d232d480.png)
 ## Technology Used
 * React JS
 * React SPA Template
