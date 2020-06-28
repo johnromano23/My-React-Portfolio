@@ -1,0 +1,129 @@
+{
+  "main": {
+    "name": "John Michael Romano",
+    "occupation": "Full Stack Web Development Student",
+    "description": "I am seeking full time employment for an entry level position in web development and programming",
+    "image": "ProfilePic.png",
+    "bio": "I am currently a student at Rutgers Coding Bootcamp. I enjoy building small websites and applications to try to enhance my knowledge and skills. During my free time I like to enjoy the outdoors on sunny days. I also like to laid back indoors and watch movies, catch up on TV shows or play video games.",
+    "contactmessage": "For questions, business inquiries, or simply to chat...message me!",
+    "email": "john_romano23@yahoo.com",
+    "phone": "201-893-1000",
+    "address": {
+      "street": "366 Rutherford Ave",
+      "city": "Lyndhurst",
+      "state": "New Jersey",
+      "zip": "07071"
+    },
+    "website": "https://github.com/johnromano23/My-React-Portfolio",
+    "resumedownload": "https://docs.google.com/document/d/1h7RXUHbvRHfkJ6FoRrgbo0BYk_wRmlY27QZYItAAZFM/edit",
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/john-michael-romano-0000231a7/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/johnromano23",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "education": [
+      {
+        "school": "Rutgers Coding Bootcamp",
+        "degree": "Full Stack Web Development",
+        "graduated": "July 2020"
+      },
+      {
+        "school": "University of Pittsburgh",
+        "degree": "Criminal Justice",
+        "graduated": "May 2016"
+      }
+    ],
+    "work": [
+      {
+        "company": "U.S Army National Guard",
+        "title": "Infantry Soldier",
+        "years": "Oct 2014 - Present",
+        "description": "My positions as an infantryman includes machine gunner, radio/telephone operator, rifleman and grenadier."
+      },
+      {
+        "company": "G4S Secure Solutions",
+        "title": "Security Supervisor",
+        "years": "July 2017 - February 2019",
+        "description": "As the supervisor I was in charg of leading a team to maintain and secure the Citi Bank Data Center in East Rutherford, NJ."
+      }
+    ],
+    "skillmessage": "Here are coding languages and programs with my profiency levels",
+    "skills": [
+      {
+        "name": "Git",
+        "level": "60%"
+      },
+      {
+        "name": "HTML",
+        "level": "70%"
+      },
+      {
+        "name": "CSS",
+        "level": "70%"
+      },
+      {
+        "name": "Javascript",
+        "level": "60%"
+      },
+      {
+        "name": "Node JS",
+        "level": "50%"
+      },
+      {
+        "name": "MySQL",
+        "level": "60%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "70%"
+      },
+      {
+        "name": "React JS",
+        "level": "50%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Weather-Dashboard",
+        "category": "Application",
+        "image": "weather.jpg",
+        "url": "https://johnromano23.github.io/HW06-Weather-Dashboard/"
+      },
+      {
+        "title": "Work-Day Scheduler",
+        "category": "Application",
+        "image": "Scheduler.jpg",
+        "url": "https://johnromano23.github.io/Homework-05-Work-Day-Scheduler/"
+      },
+      {
+        "title": "EventScope",
+        "category": "Website",
+        "image": "EventScope.png",
+        "url": "https://airazabal92.github.io/project-1/"
+      },
+      {
+        "title": "Employee-Directory",
+        "category": "Application",
+        "image": "Employee-Directory.jpg",
+        "url": "https://johnromano23.github.io/User-Directory/"
+      },
+      {
+        "title": "Plan-it-Fitness",
+        "category": "Website",
+        "image": "Plan-it-Fitness.png",
+        "url": "https://plan-it-fitness.herokuapp.com/"
+      }
+    ]
+  }
+}
