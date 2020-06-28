@@ -8,6 +8,7 @@ import About from "./Components/About";
 import Resume from "./Components/Resume";
 import Contact from "./Components/Contact";
 import Portfolio from "./Components/Portfolio";
+import data from "./Data/resumeData.json";
 
 class App extends Component {
   constructor(props) {
@@ -21,23 +22,24 @@ class App extends Component {
     ReactGA.pageview(window.location.pathname);
   }
 
-  getResumeData() {
-    $.ajax({
-      url: "/resumeData.json",
-      dataType: "json",
-      cache: false,
-      success: function (data) {
-        this.setState({ resumeData: data });
-      }.bind(this),
-      error: function (xhr, status, err) {
-        console.log(err);
-        alert(err);
-      },
-    });
-  }
+  // getResumeData() {
+  //   $.ajax({
+  //     url: "/resumeData.json",
+  //     dataType: "json",
+  //     cache: false,
+  //     success: function (data) {
+  //       this.setState({ resumeData: data });
+  //     }.bind(this),
+  //     error: function (xhr, status, err) {
+  //       console.log(err);
+  //       alert(err);
+  //     },
+  //   });
+  // }
 
   componentDidMount() {
-    this.getResumeData();
+    // this.getResumeData();
+    _this_.setState({ resumeData: data });
   }
 
   render() {
