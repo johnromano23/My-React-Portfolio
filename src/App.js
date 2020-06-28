@@ -39,7 +39,7 @@ class App extends Component {
 
   componentDidMount() {
     // this.getResumeData();
-    _this_.setState({ resumeData: data });
+    this.setState({ resumeData: data });
   }
 
   render() {
